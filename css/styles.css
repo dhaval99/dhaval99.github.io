@@ -1,0 +1,9 @@
+body 
+{
+    background-color:black; 
+}
+p{
+    color: white;
+    font-style: italic;
+    font-family: 'Gotu', sans-serif;
+}
